@@ -1,5 +1,10 @@
 # Challenger - Foro Hub
 
+![Java](https://img.shields.io/badge/Java-17-blue)
+![Maven](https://img.shields.io/badge/Maven-3.6.3-C71A36?logo=apache-maven)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-5.3.3-brightgreen?logo=spring)
+![MySQL](https://img.shields.io/badge/MySQL-8.0.21-orange?logo=mysql)
+
 Esta aplicacion corresponde al desarrollo del Challenge 3 de la especializacion en BACK END en el programa de Alura Latam ONEG6, que consiste en desarrollar una API para un Foro donde es posible realizar las operaciones del CRUD (Crear, Listar, Actualizar y Eliminar) con tópicos.
 
 Documentare los endpoins para que se pueda testear de manera mas sencilla la app.
